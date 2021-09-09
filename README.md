@@ -1,12 +1,13 @@
-# RDPGRATISAN6JAM
+## If Error Showed
 
-If Error Showed
 Just Download This Whole repository And make new repo in your GitHub account and upload all the files
 
-Free RDP 6 HOURS
-it's all free, don't be stingy star yes: D
+# Free RDP 6 HOURS
 
-HOW TO CREATE Oshekher-RDP
+it's all free, don't be stingy ⭐️ yes: D
+
+### HOW TO CREATE Oshekher-RDP
+```
 > Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
 
 > visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN
@@ -24,7 +25,9 @@ HOW TO CREATE Oshekher-RDP
 > Refresh Web and go to CI> build
 
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
-WARN
+```
+### WARN
+
 THIS IS ONLY FOR EDUCATIONAL PURPOSES
 
 DON'T USE FOR MINING OR ILLEGAL USE
